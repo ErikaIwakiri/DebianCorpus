@@ -24,7 +24,7 @@ Instruções:
 Instale e abra o OmegaT.
 Faça o upload do arquivo TMX no OmegaT para começar a traduzir e criar sua memória de tradução.
 
-4. Iniciar o Processo de Tradução
+5. Iniciar o Processo de Tradução com a ajuda do Glossário Debian
 
 Seguindo estas etapas e utilizando as ferramentas corretas, você será capaz de realizar traduções mais precisas e adaptar websites para diferentes públicos de forma eficiente e profissional.
 
